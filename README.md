@@ -1,6 +1,6 @@
 ![EasyRTC](./api/img/easyrtc.png "EasyRTC")
 
-EasyRTC - ALPHA
+EasyRTC - BETA
 =======
 
 **A bundle of Open Source WebRTC joy!**
